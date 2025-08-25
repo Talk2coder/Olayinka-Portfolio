@@ -37,3 +37,4 @@ if(year){
 headerMenuIcon.addEventListener("click", () => {
   headerNavBar.classList.toggle("header_menu-active");
 });
+AOS.init();
