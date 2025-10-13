@@ -53,6 +53,8 @@
 
 html,
 body {
+  overflow-x: hidden;
+  width: 100%;
   font-size: 16px;
 }
 
@@ -64,6 +66,7 @@ img {
 *,
 *::before,
 *::after {
+  max-width: 100%;
   box-sizing: border-box;
   margin: 0;
   border: 0;
@@ -127,6 +130,7 @@ header {
   display: flex;
   gap: 1rem;
   align-items: center;
+  overflow-x: hidden;
 }
 
 .header_list li {
@@ -167,7 +171,7 @@ header {
   display: flex;
   align-items: center;
   gap: 3rem;
-  padding: 6rem 0 0 6rem;
+  padding: 6rem 1rem 0 1rem;
   background-color: var(--whiteColor);
 }
 
@@ -538,7 +542,7 @@ header {
   box-shadow: var(--shadow-box);
   display: grid;
   place-content: center;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 100px));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   max-width: 1000px;
   margin: 0 auto;
   padding: 1rem 1rem;
@@ -1297,7 +1301,7 @@ footer {
   }
 
   .certificate_container {
-    grid-template-columns: repeat(auto-fit, minmax(360px, 100px));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   }
 
   .resume_download {
@@ -1333,6 +1337,12 @@ footer {
   .home_list li {
     font-size: 0.9rem;
 }
+.header_span {
+    font-size: 0.8rem;
+}
+.header_list {
+    gap: 0rem;
+}
 
 }
 @media(min-width:993px) and (max-width:1024px){
@@ -1345,7 +1355,6 @@ footer {
 .home_container {
     padding: 6rem 0 0 4rem;
 }
-
 
 
 }
