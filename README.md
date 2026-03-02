@@ -34,3 +34,8 @@ Email: holaryinkamichael@gmail.com
 - **HTML5**
 - **CSS3** (Flexbox & Grid)
 - **JavaScript (ES6+)**
+
+## 📸 Screenshot
+
+### Homepage
+![Homepage](screenshot/homepage.png)
