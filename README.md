@@ -1,7 +1,21 @@
 # 🌐 My Portfolio
 
-Welcome to my personal portfolio website!  
-This is where I showcase my projects, skills, and experience as a developer.
+# Hi, I'm Michael Olayinka 👋
+
+Security-focused Web Developer passionate about
+building secure and responsive web applications.
+
+## 🔧 Tech Stack
+HTML • CSS • JavaScript • PHP • Python
+
+## 🌱 Currently Learning
+- Web Application Security (OWASP)
+- Python Automation
+- Secure Authentication Systems
+
+## 📫 Contact
+Portfolio: https://olayinka-portfolio-rouge.vercel.app
+Email: holaryinkamichael@gmail.com
 
 🔗 **Live Demo:** [View Portfolio](https://olayinka-portfolio-rouge.vercel.app/)
 
