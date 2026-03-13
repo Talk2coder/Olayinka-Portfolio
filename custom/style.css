@@ -39,7 +39,7 @@
 }
 
 :root {
-  --primaryColor: #072437;
+  --primaryColor: #1F3A5A;
   --hoverColor: #0e3e5e;
   --secondaryColor: #3c98e9;
   --borderColor: #0b619b;
@@ -279,7 +279,7 @@ header {
 }
 
 .about_container {
-  background-color: var(--hoverColor);
+  background-color: var(--primaryColor);
   display: flex;
   align-items: center;
   justify-content: center;
