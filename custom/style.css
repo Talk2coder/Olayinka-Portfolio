@@ -111,7 +111,7 @@ header {
 
 .header_img {
   display: flex;
-  width: 100%;
+  width: 60px;
   flex-shrink: 0;
 }
 
@@ -774,7 +774,7 @@ footer {
   }
 
   .header_img {
-    width: 25px;
+    width: 40px;
   }
 
   .heading {
@@ -894,7 +894,7 @@ footer {
   }
 
   .header_img {
-    width: 25px;
+    width: 40px;
   }
 
   .heading {
@@ -1014,7 +1014,7 @@ footer {
   }
 
   .header_img {
-    width: 25px;
+    width: 40px;
   }
 
   .heading {
@@ -1134,7 +1134,7 @@ footer {
   }
 
   .header_img {
-    width: 25px;
+    width: 40px;
   }
 
   .heading {
@@ -1260,7 +1260,7 @@ footer {
   }
 
   .header_img {
-    width: 25px;
+    width: 40px;
   }
 
   .heading {
